@@ -1,0 +1,1 @@
+raspivid -hf -t 22000 -o \home\pi\tempvid.h264 
